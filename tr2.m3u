@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HalkTV.tr",Halk TV (720p)
+https://halktv.blutv.com/blutv_halktv_live/live.m3u8
+#EXTINF:-1 tvg-id="HaberturkTV.tr",Habertürk TV (1080p)
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr",Show TV (1080p)
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr",Show TV
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr",Star TV (720p) [Not 24/7]
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="Teve2.tr",Teve2 (1080p)
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (1080p)
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (1080p)
+https://trt1.persona.video/master.m3u8?hls=1
+#EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (1080p) [Geo-blocked]
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (720p)
+https://trt1.blutv.com/blutv_trt1_live/live.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr",TRT 2
+https://trt2.blutv.com/blutv_trt2/live.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr",TRT 2 (720p)
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT4K.tr",TRT 4K (2160p)
+https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
+#EXTINF:-1 tvg-id="TRTBelgesel.tr",TRT Belgesel (720p)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
